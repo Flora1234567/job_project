@@ -10,16 +10,17 @@ Firstly, cleansing dirty data for recruitment information. Data visualization wi
 For these different kinds of field job, each column contain job_role, website_link, company, location, post_day, and classification.
 
 * [NZ_Admin_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_Admin_JOBS.csv) - administrative field job
-* [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Banking_JOBS.csv) - bank field job
-* [NZ_TRADE_SERVICES_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_TRADE_SERVICES_JOBS.csv) - trade service field job
+* [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_Banking_JOBS.csv) - bank field job
+* [NZ_TRADE_SERVICES_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_TRADE_SERVICES_JOBS.csv) - trade service field job
 
 Map
 
-* [nz_region.geojson](https://github.com/Flora1234567/project/blob/project/project/project_dataset/nz_region.geojson) - NZ map
+* [nz_region.geojson](https://github.com/Flora1234567/job_project/blob/main/nz_region.geojson) - NZ map
+* [region_sum2.csv](https://github.com/Flora1234567/job_project/blob/main/region_sum2.csv) - 
 
 # Notebook
 
-* [data_project_visuallization](https://github.com/Flora1234567/project/blob/project/project/datavisualisation_20210412/project_plot2.ipynb) - Data analyse recruitment information.
-* [NZ heatmap](https://github.com/Flora1234567/project/blob/project/project/datavisualisation_20210412/GIS_plot.ipynb) - Job count for different locations
+* [data_project_visuallization](https://github.com/Flora1234567/job_project/blob/main/project_plot2.ipynb) - Data analyse recruitment information.
+* [NZ heatmap](https://github.com/Flora1234567/job_project/blob/main/GIS_plot.ipynb) - Job count for different locations
 
 
