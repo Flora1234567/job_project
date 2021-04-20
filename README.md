@@ -13,7 +13,7 @@ For different fields of work, each column contains JOB_ROLE, WEBSITE_LINK, COMPA
 * [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_Banking_JOBS.csv) - bank field job
 * [NZ_TRADE_SERVICES_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_TRADE_SERVICES_JOBS.csv) - trade service field job
 
-Map
+Map resource
 
 * [nz_region.geojson](https://github.com/Flora1234567/job_project/blob/main/nz_region.geojson) - NZ map
 * [region_sum2.csv](https://github.com/Flora1234567/job_project/blob/main/region_sum2.csv) - concat administrative, trade, and bank field data frame, group by location to get job count that number of people work in a different location, then transform to CSV file
