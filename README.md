@@ -7,7 +7,7 @@ Firstly, cleansing dirty data for recruitment information. Data visualization wi
 
 # Data
 
-For these different kinds of field job, each column contain job_role, website_link, company, location, post_day, and classification.
+For different fields of work, each column contains JOB_ROLE, WEBSITE_LINK, COMPANY, LOCATION, POST_DAY, and CLASSIFICATION.
 
 * [NZ_Admin_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_Admin_JOBS.csv) - administrative field job
 * [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/job_project/blob/main/NZ_Banking_JOBS.csv) - bank field job
@@ -16,11 +16,13 @@ For these different kinds of field job, each column contain job_role, website_li
 Map
 
 * [nz_region.geojson](https://github.com/Flora1234567/job_project/blob/main/nz_region.geojson) - NZ map
-* [region_sum2.csv](https://github.com/Flora1234567/job_project/blob/main/region_sum2.csv) - 
+* [region_sum2.csv](https://github.com/Flora1234567/job_project/blob/main/region_sum2.csv) - concat administrative, trade, and bank field data frame, group by location to get job count that number of people work in a different location, then transform to CSV file
+
+
 
 # Notebook
 
-* [data_project_visuallization](https://github.com/Flora1234567/job_project/blob/main/project_plot2.ipynb) - Data analyse recruitment information.
+* [data_project_visuallization](https://github.com/Flora1234567/job_project/blob/main/project_plot2.ipynb) - Data analyze recruitment information
 * [NZ heatmap](https://github.com/Flora1234567/job_project/blob/main/GIS_plot.ipynb) - Job count for different locations
 
 
